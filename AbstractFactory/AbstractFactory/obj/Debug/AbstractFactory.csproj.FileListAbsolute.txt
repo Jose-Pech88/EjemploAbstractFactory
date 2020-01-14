@@ -1,0 +1,12 @@
+C:\Users\jose.pech\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\jose.pech\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\jose.pech\source\repos\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\jose.pech\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\jose.pech\source\repos\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploAbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploAbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploAbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploAbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploAbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploAbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
